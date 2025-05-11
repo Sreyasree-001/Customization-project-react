@@ -1,11 +1,14 @@
 import { useState } from 'react'
 import './App.css'
+import ImageUploader from './components/ImageUploader'
 
 function App() {
 
   return (
     <>
-      <h1>Hello react</h1>
+      <div>
+        <ImageUploader/>
+      </div>
     </>
   )
 }
