@@ -49,9 +49,3 @@ http://localhost:3000
 ## AI Integration in the Project
 AI helped developing the functionality of the ALT+Q feature for the specified action. Additionally AI was utilized to assist in writing the README file, significantly reducing time spent on documentation.
 
-# 📅 Interview Availability
-I am available for interviews during the following slots:
-
-Monday to Friday: 9:00 PM – 10:00 PM IST
-
-Please confirm a suitable time.
