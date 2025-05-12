@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
-import FileUploader from "./Fileuploader";
+import FileUploader from "./FileUploader";
 
 const ImageUploader = () => {
   const { register, handleSubmit } = useForm({
