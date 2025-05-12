@@ -1,12 +1,58 @@
-# React + Vite
+# Image Uploader App
+A lightweight React app that allows users to:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Upload images via drag & drop or file selection.
 
-Currently, two official plugins are available:
+Preview uploaded images.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fill form fields (Height, Weight, Build, Text limited to 3 lines).
 
-## Expanding the ESLint configuration
+Styled versions: Dark theme, Light theme, Neon theme.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Technologies Used
+## React + Vite
+
+Tailwind CSS (for styling)
+
+react-hook-form (form handling & validation)
+
+React Icons (for icons)
+
+# 🌐 Live Deployment
+Deployed on Cloudfare:
+## 👉
+
+# 🛠 Local Installation & Running Instructions
+Prerequisites
+Node.js >= 14
+
+npm or yarn
+
+## Steps
+### Clone the repo
+git clone https://gitlab.com/yourusername/image-uploader.git
+
+### Navigate to project
+cd image-uploader
+
+### Install dependencies
+npm install
+
+### Run development server
+npm run dev
+
+### Open in browser:
+http://localhost:3000
+
+# 📦 GitLab Export
+The entire project has been exported from GitLab as image-uploader-project-export.gz.
+You can re-import into your own GitLab instance:
+
+Go to GitLab → New Project → Import project → Import from exported project.
+
+# 📅 Interview Availability
+I am available for interviews during the following slots:
+
+Monday to Friday: 9:00 PM – 10:00 PM IST
+
+Please confirm a suitable time.

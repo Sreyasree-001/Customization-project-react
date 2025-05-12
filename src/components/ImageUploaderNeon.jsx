@@ -88,7 +88,7 @@ const ImageUploaderNeon = () => {
 
         <button
           type="submit"
-          className="mt-4 bg-black border-2 border-cyan-400 text-cyan-300 px-6 py-2 rounded-md hover:bg-cyan-600 hover:text-black transition shadow-[0_0_15px_cyan]"
+          className="mt-4 bg-black border-2 border-cyan-400 text-cyan-300 px-6 py-2 rounded-md hover:bg-cyan-600 hover:text-black transition shadow-[0_0_15px_cyan] cursor-pointer"
         >
           Submit
         </button>
