@@ -18,9 +18,11 @@ react-hook-form (form handling & validation)
 
 React Icons (for icons)
 
+Google Fonts (for fonts)
+
 # 🌐 Live Deployment
-Deployed on Cloudfare:
-## 👉
+Deployed on Cloudflare:
+## 👉 https://image-uploader-f1e.pages.dev/
 
 # 🛠 Local Installation & Running Instructions
 Prerequisites
@@ -30,7 +32,7 @@ npm or yarn
 
 ## Steps
 ### Clone the repo
-git clone https://gitlab.com/yourusername/image-uploader.git
+git clone https://github.com/Sreyasree-001/Customization-project-react.git
 
 ### Navigate to project
 cd image-uploader
@@ -44,11 +46,8 @@ npm run dev
 ### Open in browser:
 http://localhost:3000
 
-# 📦 GitLab Export
-The entire project has been exported from GitLab as image-uploader-project-export.gz.
-You can re-import into your own GitLab instance:
-
-Go to GitLab → New Project → Import project → Import from exported project.
+## AI Integration in the Project
+AI helped developing the functionality of the ALT+Q feature for the specified action. Additionally AI was utilized to assist in writing the README file, significantly reducing time spent on documentation.
 
 # 📅 Interview Availability
 I am available for interviews during the following slots:
